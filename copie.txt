@@ -1,0 +1,3 @@
+The input file is 21 bytes long
+Does the output file exist? False
+Ready, hit RETURN to continue, CTRL-C to abort.
