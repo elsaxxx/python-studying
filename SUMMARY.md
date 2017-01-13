@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [py103](py103.md)
+* [Chapter 0](py103.md)
+* [Chapter 1](chapter1.md)
 
